@@ -12,7 +12,7 @@
         <div class="container">
             <a href="index.php" class="navbar-brand">
                 <span class="logo-icon">📦</span>
-                <span>Project Smart Inventory</span>
+                <span>Smart</span>
             </a>
             <ul class="navbar-menu">
                 <li><a href="index.php">Home</a></li>
